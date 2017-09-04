@@ -1,4 +1,2 @@
-# hello-world
-test repository on github
-... editing after creating readme-edit branch from master...
 # 1-hello-world
+Google Cloud Platform (GCP) Python Hello World example.
